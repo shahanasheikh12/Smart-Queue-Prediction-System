@@ -1,11 +1,11 @@
-# 🧠 Smart-Queue-Prediction-System
+#  Smart-Queue-Prediction-System
 **Smart Queue Prediction System** is a machine learning-based application that predicts waiting times and analyzes crowd patterns in places like banks and hospitals. Using historical and real-time data, it estimates queue length and suggests the best time to visit, helping users save time and avoid long waits.
 
 
-# 📌 Abstract
+#  Abstract
 This project presents a Smart Queue Prediction System that estimates waiting time and suggests the best time to visit crowded places like banks and hospitals. It uses machine learning models trained on historical and real-time data such as time, day, and queue size. The system improves user experience by reducing waiting time and enabling better planning. Results show accurate predictions and efficient crowd management.
 
-# 📖 Introduction
+#  Introduction
 Long queues in public places cause delays and frustration. This project aims to solve this problem by predicting waiting times and suggesting optimal visiting hours using data-driven techniques.
 
 # 📚 Literature Review
